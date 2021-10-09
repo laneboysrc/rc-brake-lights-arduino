@@ -31,7 +31,7 @@ The light controller makes use of the following pins on the Arduino:
 * Brake light LED: `D2`
 * Reversing light LED: `D3`
 * Throttle signal from the receiver: `D7`
-* Setup switch: `D9`
+* Setup push-button: `D9`
 
 If required, you can change those pins in the file [global.h]((rc-brake-lights-arduino/global.h)
 

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250mm"
+   height="160mm"
+   viewBox="0 0 885.82677 566.92914"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="rc-brake-lights-arduino-wiring.svg"
+   inkscape:export-filename="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/rc-brake-lights-arduino-wiring.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective40"
+       inkscape:persp3d-origin="218 : 328.99997 : 1"
+       inkscape:vp_z="436 : 493.49993 : 1"
+       inkscape:vp_y="0 : 999.99989 : 0"
+       inkscape:vp_x="0 : 493.49993 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="401.59478"
+     inkscape:cy="295.42241"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-485.43306)">
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/220-ohm-resistor.jpg"
+       xlink:href="220-ohm-resistor.jpg"
+       y="504.43677"
+       x="-832.78607"
+       id="image882"
+       preserveAspectRatio="none"
+       height="25.544668"
+       width="92.889702"
+       style="stroke-width:2.69136381"
+       transform="rotate(-90)" />
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/220-ohm-resistor.jpg"
+       xlink:href="220-ohm-resistor.jpg"
+       transform="rotate(-90)"
+       style="stroke-width:2.69136381"
+       width="92.889702"
+       height="25.544668"
+       preserveAspectRatio="none"
+       id="image886"
+       x="-832.78607"
+       y="479.59302" />
+    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path872"
+       d="m 357.47525,746.19084 c 104.75109,-4.3597 122.39662,89.16362 132.2275,183.10597 9.83089,93.94239 78.02585,91.70689 85.56974,50.7641"
+       style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 357.70962,755.56584 c 104.75109,-4.3597 102.006,92.44487 111.83688,186.38722 9.83089,93.94234 124.4321,130.61304 123.06974,38.10785"
+       id="path873"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/arduino-nano.jpg"
+       xlink:href="arduino-nano.jpg"
+       style="stroke-width:0.59749329"
+       width="354.98309"
+       height="140.08525"
+       preserveAspectRatio="none"
+       id="image868"
+       x="269.12231"
+       y="847.34198" />
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/receiver.png"
+       xlink:href="receiver.png"
+       width="173.851"
+       height="120.35839"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image3430"
+       x="32.318703"
+       y="686.82355" />
+    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path4489"
+       d="m 517.00825,740.7892 c -0.2447,-22.36622 7.79356,-26.12407 27.69253,-26.37018 19.89898,-0.24612 36.74225,-24.10654 37.33582,-52.1974"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 534.13912,857.03189 c -7.01608,-130.55115 41.42966,-145.55603 58.75231,-156.7468 17.32265,-11.19077 1.94088,-23.87168 3.01455,-56.4523"
+       id="path4501"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/../../rc-simple-switch/doc/dupont-3p.png"
+       xlink:href="../../rc-simple-switch/doc/dupont-3p.png"
+       width="72.910034"
+       height="43.070408"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4222"
+       x="688.40259"
+       y="-187.69026"
+       transform="rotate(90)" />
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/../../rc-simple-switch/doc/dupont-3p.png"
+       xlink:href="../../rc-simple-switch/doc/dupont-3p.png"
+       y="736.052"
+       x="285.56537"
+       id="image4219-3"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="43.070408"
+       width="72.910034" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path4224"
+       d="m 154.3916,694.58629 c 0,-27.89963 12.74344,-80.64831 46.4904,-80.34257 33.74696,0.30575 26.08487,66.75096 44.08046,106.9506 17.99559,40.19964 34.25289,49.87111 45.75942,49.97572"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 167.11809,694.12569 c 0.27352,-21.33501 -8.80665,-83.84563 32.97581,-85.77352 41.78245,-1.92788 29.2038,55.55612 47.65401,104.29733 18.45021,48.74121 35.45059,45.85554 43.81898,45.85554"
+       id="path3677"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#803300;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 178.62075,694.11016 c -2.18821,-24.89085 -12.64675,-90.68748 27.08603,-90.25916 39.73279,0.42831 30.16611,54.77287 45.48163,102.32007 15.31552,47.5472 30.29036,40.62927 39.91401,40.42006"
+       id="path4226"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
+    <g
+       id="g3364"
+       transform="matrix(0.23585109,0,0,0.23585109,433.4496,429.81168)">
+      <path
+         id="path26575"
+         d="m 568.81033,709.5 v 39.28571 h 174.44174 v -38.57143 z"
+         style="fill:#ff4a4a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path26577"
+         d="M 598.42637,709.14285 V 580.21428 c 0,0 12.36714,-44.64286 64.76475,-46.42857 52.39761,-1.78571 65.41566,49.28571 65.41566,49.28571 v 127.14286"
+         style="fill:#ff8080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path26579"
+         d="M 620.55705,709.5 V 582.35714 h 13.99439 l 20.83585,13.201 3.57297,10.37043 -17.57435,7.14285 V 709.5 Z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path26581"
+         d="m 647.89493,580.57142 h 62.81204 V 709.5 h -32.21964 l -15.29621,-32.14286 v -54.64286 l 13.3435,-23.57143 z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path26583"
+         d="m 620.55705,749.5 v 238.21428 h 22.13066 V 749.5 Z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path26585"
+         d="m 677.83642,748.78571 v 162.14286 h 22.13066 V 748.78571 Z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3434"
+       transform="matrix(0.23585109,0,0,0.23585109,508.24809,429.81168)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 458.81033,709.5 v 39.28571 h 174.44174 v -38.57143 z"
+         id="path3374" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 488.42637,709.14285 V 580.21428 c 0,0 12.36714,-44.64286 64.76475,-46.42857 52.39761,-1.78571 65.41566,49.28571 65.41566,49.28571 v 127.14286"
+         id="path3376" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 510.55705,709.5 V 582.35714 h 13.99439 l 20.83585,13.201 3.57297,10.37043 -17.57435,7.14285 V 709.5 Z"
+         id="path3378" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 537.89493,580.57142 h 62.81204 V 709.5 h -32.21964 l -15.29621,-32.14286 v -54.64286 l 13.3435,-23.57143 z"
+         id="path3380" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 510.55705,749.5 v 238.21428 h 22.13066 V 749.5 Z"
+         id="path3382" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 567.83642,748.78571 v 162.14286 h 22.13066 V 748.78571 Z"
+         id="path3384" />
+    </g>
+    <g
+       transform="matrix(0.23585109,0,0,0.23585109,680.13115,429.81168)"
+       id="g3613">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ff4a4a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 568.81033,709.5 v 39.28571 h 174.44174 v -38.57143 z"
+         id="path3615" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ff8080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 598.42637,709.14285 V 580.21428 c 0,0 12.36714,-44.64286 64.76475,-46.42857 52.39761,-1.78571 65.41566,49.28571 65.41566,49.28571 v 127.14286"
+         id="path3617" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 620.55705,709.5 V 582.35714 h 13.99439 l 20.83585,13.201 3.57297,10.37043 -17.57435,7.14285 V 709.5 Z"
+         id="path3619" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 647.89493,580.57142 h 62.81204 V 709.5 h -32.21964 l -15.29621,-32.14286 v -54.64286 l 13.3435,-23.57143 z"
+         id="path3621" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 620.55705,749.5 v 238.21428 h 22.13066 V 749.5 Z"
+         id="path3623" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 677.83642,748.78571 v 162.14286 h 22.13066 V 748.78571 Z"
+         id="path3625" />
+    </g>
+    <g
+       transform="matrix(0.23585109,0,0,0.23585109,656.77348,429.81168)"
+       id="g3627">
+      <path
+         id="path3629"
+         d="m 458.81033,709.5 v 39.28571 h 174.44174 v -38.57143 z"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3631"
+         d="M 488.42637,709.14285 V 580.21428 c 0,0 12.36714,-44.64286 64.76475,-46.42857 52.39761,-1.78571 65.41566,49.28571 65.41566,49.28571 v 127.14286"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3633"
+         d="M 510.55705,709.5 V 582.35714 h 13.99439 l 20.83585,13.201 3.57297,10.37043 -17.57435,7.14285 V 709.5 Z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3635"
+         d="m 537.89493,580.57142 h 62.81204 V 709.5 h -32.21964 l -15.29621,-32.14286 v -54.64286 l 13.3435,-23.57143 z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3637"
+         d="m 510.55705,749.5 v 238.21428 h 22.13066 V 749.5 Z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3639"
+         d="m 567.83642,748.78571 v 162.14286 h 22.13066 V 748.78571 Z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.95460087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path3641"
+       d="m 595.54427,644.41679 c 6.06504,48.03235 19.37486,53.15331 32.85124,53.50136 13.47637,0.34806 17.32598,-31.86009 16.62445,-53.19776"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 793.24752,644.626 c 6.06504,48.03235 19.37486,53.15331 32.85124,53.50136 13.47637,0.34806 17.53519,-32.27851 16.83366,-53.61618"
+       id="path3643"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path3645"
+       d="m 644.72213,645.21773 c 0.73942,48.03235 32.98476,56.70371 75.16026,56.46003 42.1755,-0.24367 74.93345,-6.53805 73.64019,-56.87072"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 581.81733,663.01449 c 1.69028,67.86361 59.53518,58.75312 110.3972,60.38989 50.86203,1.63678 138.60657,-7.77752 136.89883,-60.55513"
+       id="path3647"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path3649"
+       d="m 630.9313,662.42276 c -0.24384,55.48524 26.1564,49.35921 77.01842,50.99598 50.86203,1.63678 73.44754,-9.95673 71.7398,-50.7428"
+       style="fill:none;fill-rule:evenodd;stroke:#88aa00;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#88aa00;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 491.99084,740.26101 c -0.40386,-37.28308 6.71565,-50.52625 72.7721,-49.23378 66.05645,1.29247 66.0536,-0.29633 66.64717,-28.38719"
+       id="path3651"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/esc.png"
+       xlink:href="esc.png"
+       width="255.67686"
+       height="205.39989"
+       preserveAspectRatio="none"
+       id="image3421"
+       x="283.65872"
+       y="492.60303" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path3430"
+       d="m 289.809,625.86547 c -19.69387,0.27352 -27.2804,5.04656 -35.1411,14.77475 -7.8607,9.72819 -18.79501,17.98365 -3.47949,65.53085 15.31552,47.5472 30.29036,40.62927 39.91401,40.42006"
+       style="fill:none;fill-rule:evenodd;stroke:#803300;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path3432"
+       d="m 289.96787,620.24232 c -7.98654,-0.3292 -24.5062,1.64245 -36.49227,13.64023 -11.98607,11.99778 -24.1779,30.02574 -5.72769,78.76695 18.45021,48.74121 35.45059,45.85554 43.81898,45.85554"
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 289.89326,615.26795 c -19.9546,-0.13814 -32.44857,6.36359 -44.6398,18.16077 -12.19123,11.79718 -18.28659,47.56596 -0.29103,87.7656 17.99559,40.19964 34.25289,49.87111 45.75942,49.97572"
+       id="path3434"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path871"
+       d="m 357.89388,767.07331 c 69.13818,-5.0618 44.68655,89.87427 56.19308,89.97887"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/laneboysrc/projects/rc-brake-lights-arduino/doc/push-button.jpg"
+       xlink:href="push-button.jpg"
+       style="stroke-width:2.22117043"
+       width="96.233055"
+       height="112.55328"
+       preserveAspectRatio="none"
+       id="image885"
+       x="82.409813"
+       y="878.33502" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffd42a;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 165.86335,879.62231 c 48.0508,-64.6294 216.6432,-72.9544 206.39088,-22.8045"
+       id="path888"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path890"
+       d="m 574.30844,977.80581 c 12.58429,89.67559 -312.63909,31.90359 -347.99179,-5.3189 -35.3527,-37.2225 16.20866,-142.1075 -51.01992,-77.1232"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.30648994px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+       x="110.40654"
+       y="1011.1302"
+       id="text894"><tspan
+         sodipodi:role="line"
+         id="tspan892"
+         x="110.40654"
+         y="1011.1302"
+         style="stroke-width:0.93749994">Setup button</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 513.727,857.74232 c -0.494,-7.05993 3.89499,-15.05689 3.15335,-25.59883"
+       id="path889"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path891"
+       d="m 494.56896,856.27663 c -2.82185,-11.18473 -2.84635,-24.18347 -2.84635,-24.18347"
+       style="fill:none;fill-rule:evenodd;stroke:#88aa00;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text895"
+       y="794.35779"
+       x="671.23059"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.30648994px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.93749994"
+         y="794.35779"
+         x="671.23059"
+         id="tspan893"
+         sodipodi:role="line">2x 220 Ohm resistor 1/4W</tspan></text>
+  </g>
+</svg>
